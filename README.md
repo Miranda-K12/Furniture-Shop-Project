@@ -73,14 +73,4 @@ Create an online furniture store with Django and Django REST Framework, includin
 - `POST /api/orders/create/` – Create a new order  
 
 
-furniture_shop/
-├── cart/
-├── orders/
-├── products/
-├── users/
-├── media/
-├── db.sqlite3
-├── manage.py
-└── requirements.txt
-
 ### 🧑‍💻 Author Miranda Kachlavashvili
