@@ -72,8 +72,7 @@ Create an online furniture store with Django and Django REST Framework, includin
 - `GET /api/orders/<id>/` – Retrieve a specific order  
 - `POST /api/orders/create/` – Create a new order  
 
----
-### Project Structure
+
 furniture_shop/
 ├── cart/
 ├── orders/
