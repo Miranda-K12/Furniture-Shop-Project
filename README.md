@@ -73,14 +73,7 @@ Create an online furniture store with Django and Django REST Framework, includin
 - `POST /api/orders/create/` – Create a new order  
 
 ---
-
-## ⚙️ Installation Instructions
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Miranda-K12/Furniture-Shop-Project.git
-cd Furniture-Shop-Project
-
+### Project Structure
 furniture_shop/
 ├── cart/
 ├── orders/
